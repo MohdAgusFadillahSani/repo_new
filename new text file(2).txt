@@ -4,4 +4,4 @@ Ini adalah contoh file teks baru didalam branch baru.
 Sekarang, file teks baru ini sudah terubah didalam branch baru.
 
 [Rev. 3]
-Tambahan commit baru.
+Tambahan commit baru kedua.
