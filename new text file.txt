@@ -1,1 +1,4 @@
 Ini adalah contoh file teks baru di repository.
+
+[Rev. 2]
+Sekarang, adalah contoh file teks yang sudah dirubah di reporsitory.
