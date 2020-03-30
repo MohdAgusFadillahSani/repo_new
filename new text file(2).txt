@@ -2,3 +2,6 @@ Ini adalah contoh file teks baru didalam branch baru.
 
 [Rev. 2]
 Sekarang, file teks baru ini sudah terubah didalam branch baru.
+
+[Rev. 3]
+Tambahan commit baru kedua.
